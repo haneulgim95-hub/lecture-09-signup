@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { useState, type SubmitEvent } from "react";
 import { useNavigate } from "react-router";
 import { Title, Wrap } from "../components/Components.tsx";
 import { useForm } from "react-hook-form";
